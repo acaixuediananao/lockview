@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LockPattenView">
+        <attr name="pointCount" format="integer"/>
+        <attr name="pointSpace" format="dimension"/>
+        <attr name="pointCountPerLine" format="integer"/>
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="rightColor" format="color"/>
+        <attr name="defaultColor" format="color"/>
+        <attr name="wrongColor" format="color"/>
+    </declare-styleable>
+</resources>
